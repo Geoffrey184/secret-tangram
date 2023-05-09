@@ -1,0 +1,38 @@
+.red.secret{
+    position: absolute;
+    top: 349px;
+    left: 36.5%;
+    transform: rotate(270deg);
+}
+.green.secret{
+    position: absolute;
+    top:292px;
+    left: 70.78%;
+    transform: rotate(135deg);
+}
+.blue.secret{
+    position: absolute;
+    left: 29.9%;
+    top: 190px;
+    transform: rotate(445deg);
+}
+.yellow.secret{
+    transform: rotate(45deg);
+    top: 276px;
+    left: 175px;
+}
+.purple.secret{
+    top: 302px;
+    left: 218px;
+    transform: rotate(135deg);
+}
+.brown.secret{
+    transform: rotate(265deg);
+    top: 228px;
+    left: 106px;
+}
+.orange.secret{
+    top: 310px;
+    left: 197px;
+    transform: rotateZ(90deg) rotateY(180deg);
+}
